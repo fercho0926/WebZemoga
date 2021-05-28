@@ -1,0 +1,9 @@
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\bin\Debug\netcoreapp3.1\WebZemoga.Data.deps.json
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\bin\Debug\netcoreapp3.1\WebZemoga.Data.dll
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\bin\Debug\netcoreapp3.1\WebZemoga.Data.pdb
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.csprojAssemblyReference.cache
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.AssemblyInfoInputs.cache
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.AssemblyInfo.cs
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.csproj.CoreCompileInputs.cache
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.dll
+C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.pdb
