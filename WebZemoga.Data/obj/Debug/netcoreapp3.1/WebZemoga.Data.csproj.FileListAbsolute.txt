@@ -7,3 +7,12 @@ C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\W
 C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.csproj.CoreCompileInputs.cache
 C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.dll
 C:\Users\ferch\Desktop\prueba\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.pdb
+C:\GIT\WebZemoga\WebZemoga.Data\bin\Debug\netcoreapp3.1\WebZemoga.Data.deps.json
+C:\GIT\WebZemoga\WebZemoga.Data\bin\Debug\netcoreapp3.1\WebZemoga.Data.dll
+C:\GIT\WebZemoga\WebZemoga.Data\bin\Debug\netcoreapp3.1\WebZemoga.Data.pdb
+C:\GIT\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.csprojAssemblyReference.cache
+C:\GIT\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.AssemblyInfoInputs.cache
+C:\GIT\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.AssemblyInfo.cs
+C:\GIT\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.csproj.CoreCompileInputs.cache
+C:\GIT\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.dll
+C:\GIT\WebZemoga\WebZemoga.Data\obj\Debug\netcoreapp3.1\WebZemoga.Data.pdb

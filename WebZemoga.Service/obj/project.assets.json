@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferch\\Desktop\\prueba\\WebZemoga\\WebZemoga.Service\\WebZemoga.Service.csproj",
+      "projectUniqueName": "C:\\GIT\\WebZemoga\\WebZemoga.Service\\WebZemoga.Service.csproj",
       "projectName": "WebZemoga.Service",
-      "projectPath": "C:\\Users\\ferch\\Desktop\\prueba\\WebZemoga\\WebZemoga.Service\\WebZemoga.Service.csproj",
+      "projectPath": "C:\\GIT\\WebZemoga\\WebZemoga.Service\\WebZemoga.Service.csproj",
       "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferch\\Desktop\\prueba\\WebZemoga\\WebZemoga.Service\\obj\\",
+      "outputPath": "C:\\GIT\\WebZemoga\\WebZemoga.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
