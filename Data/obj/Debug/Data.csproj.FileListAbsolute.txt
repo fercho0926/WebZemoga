@@ -1,0 +1,14 @@
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\Data.dll.config
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\Data.dll
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\Data.pdb
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\ComTrans.dll
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\EntityFramework.dll
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\ComTrans.pdb
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\EntityFramework.xml
+C:\Users\ferch\source\repos\zemoga_web\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferch\source\repos\zemoga_web\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\zemoga_web\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\zemoga_web\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\ferch\source\repos\zemoga_web\Data\obj\Debug\Data.dll
+C:\Users\ferch\source\repos\zemoga_web\Data\obj\Debug\Data.pdb
