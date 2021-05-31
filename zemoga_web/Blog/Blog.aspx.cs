@@ -12,12 +12,18 @@ namespace zemoga_web.Blog
 {
     public partial class Blog : System.Web.UI.Page
     {
+
+
+        Fcd facade = new Fcd();
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
+            string filter = "6";
+            facade.GetItems(filter);
+
         }
 
-        Fcd facade = new Fcd();
 
 
         protected void Save_Click(object sender, EventArgs e)

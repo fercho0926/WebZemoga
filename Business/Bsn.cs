@@ -30,5 +30,15 @@ namespace Business
         }
 
 
+
+
+        public string GetItems(string filter) {
+
+            return(AC.GetItems(filter));
+        }
+      
+        
+
+
     }
 }

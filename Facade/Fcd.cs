@@ -21,5 +21,13 @@ namespace Facade
         {
             return (business.getInfo());
         }
+
+
+        public string GetItems(string filter)
+        {
+
+            return (business.GetItems(filter));
+
+        }
     }
 }
