@@ -1,0 +1,6 @@
+C:\Users\ferch\source\repos\zemoga_web\ComTrans\bin\Debug\ComTrans.dll
+C:\Users\ferch\source\repos\zemoga_web\ComTrans\bin\Debug\ComTrans.pdb
+C:\Users\ferch\source\repos\zemoga_web\ComTrans\obj\Debug\ComTrans.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\zemoga_web\ComTrans\obj\Debug\ComTrans.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\zemoga_web\ComTrans\obj\Debug\ComTrans.dll
+C:\Users\ferch\source\repos\zemoga_web\ComTrans\obj\Debug\ComTrans.pdb

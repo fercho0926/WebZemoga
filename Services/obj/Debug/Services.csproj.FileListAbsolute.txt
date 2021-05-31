@@ -1,0 +1,9 @@
+C:\Users\ferch\source\repos\zemoga_web\Services\bin\Debug\Services.dll
+C:\Users\ferch\source\repos\zemoga_web\Services\bin\Debug\Services.pdb
+C:\Users\ferch\source\repos\zemoga_web\Services\bin\Debug\ComTrans.dll
+C:\Users\ferch\source\repos\zemoga_web\Services\bin\Debug\ComTrans.pdb
+C:\Users\ferch\source\repos\zemoga_web\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\zemoga_web\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\zemoga_web\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\ferch\source\repos\zemoga_web\Services\obj\Debug\Services.dll
+C:\Users\ferch\source\repos\zemoga_web\Services\obj\Debug\Services.pdb
