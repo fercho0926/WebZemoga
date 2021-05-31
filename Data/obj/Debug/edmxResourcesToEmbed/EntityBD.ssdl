@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="zemogaBDModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="blog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="authorName" Type="varchar" MaxLength="50" />
+    <Property Name="tittle" Type="varchar" MaxLength="140" />
+    <Property Name="content" Type="varchar(max)" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="status" Type="char" MaxLength="10" />
+    <Property Name="approvedDate" Type="datetime" />
+    <Property Name="approveBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="zemogaBDModelStoreContainer">
+    <EntitySet Name="blog" EntityType="Self.blog" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
